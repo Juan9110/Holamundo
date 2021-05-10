@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Holamundo</string>
+    <string name="hello_world">hola_mundo</string>
+    <string name="saludar">saludar</string>
+</resources>
